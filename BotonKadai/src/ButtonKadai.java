@@ -6,14 +6,14 @@ public class ButtonKadai extends Frame {
         new ButtonKadai();
     }
     ButtonKadai() {
-        super("ƒJƒ}ƒLƒŠƒAƒvƒŠ");
+        super("ï¿½Jï¿½}ï¿½Lï¿½ï¿½ï¿½Aï¿½vï¿½ï¿½!!!!!");
         setSize(400, 200);
         setLayout(new BorderLayout());
-        Label l1 = new Label("ƒJƒ}ƒLƒŠRPG");
-        Button b2 = new Button("“Œ‚ÖˆÚ“®‚·‚é");
-        Label l3 = new Label("JAVAƒAƒvƒŠŒ¤‹†‰ï");
-        Button b4 = new Button("¼‚ÖˆÚ“®‚·‚é");
-        Button b5 = new Button("ƒXƒe[ƒ^ƒX");
+        Label l1 = new Label("ï¿½Jï¿½}ï¿½Lï¿½ï¿½RPG");
+        Button b2 = new Button("ï¿½ï¿½ï¿½ÖˆÚ“ï¿½ï¿½ï¿½ï¿½ï¿½");
+        Label l3 = new Label("JAVAï¿½Aï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+        Button b4 = new Button("ï¿½ï¿½ï¿½ÖˆÚ“ï¿½ï¿½ï¿½ï¿½ï¿½");
+        Button b5 = new Button("ï¿½Xï¿½eï¿½[ï¿½^ï¿½X");
 
         add("North", l1);
         add("East", b2);
